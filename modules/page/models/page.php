@@ -4,10 +4,11 @@
  * @package Api Plugin
  * @author Bastian Allgeier Bastian@getkirby.com
  * @author Tim Kächele TimKaechele@me.com
- * @link http://github.com/timkaechele/Linky.plugin
+ * @link http://github.com/timkaechele/Api.plugin
  * @copyright Bastian Allgeier & Tim Kächele
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  */
+
 namespace Kirby\Api;
 
 use Kirby\Toolkit\C;
