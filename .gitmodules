@@ -1,0 +1,3 @@
+[submodule "vendors/app"]
+	path = vendors/app
+	url = https://github.com/getkirby/app.git
