@@ -13,6 +13,7 @@ use Kirby\Toolkit\Router\Route;
 class PageModule extends Module {
   
   public function routes() {
+    route::get('api/page',                  'site > site::index');
     route::get('api/page/(:all)',           'page > page::show');
     route::post('api/page/create/(:all)',   'page > page::create');
     route::post('api/page/update/(:all)',   'page > page::update');
