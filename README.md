@@ -1,5 +1,13 @@
  
 # Kirby API
+
+## Disclaimer
+Due to the radical changes in Kirby 2 since the plugin has been written, the plugin stopped working. We are working on a new version.
+
+Meanwhile you can enjoy this cute cat gif.
+
+![cat_gif](http://30.media.tumblr.com/tumblr_m39dd8swYK1rp26sto1_400.gif)
+
 Like all modern APIs the Kirby API is RESTful. So you are able retrieve all wished Data by simply using standard HTTP Methods.  You don't have to deal with crappy XML-RPC or SOAP.
 
 **API Authentication is coming soon**
